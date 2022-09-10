@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a0942d63-272f-4da0-92c6-e52e8488c8dc" name="kowo">
+        <fileTransfer rootFolder="/home/kowo" accessType="SFTP" host="192.168.3.89" port="22" sshConfigId="fb9e41fc-d72b-4613-8461-ba966e4df800" sshConfig="kowo@192.168.3.89:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
